@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp1.2TicTac</string>
+    <string name="btnName">Restart</string>
+</resources>
